@@ -2,7 +2,7 @@
 
 var d = new Date();
 alert(d.getMonth());
-lert(d.getHours());
+alert(d.getHours());
 
 
 
