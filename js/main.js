@@ -56,8 +56,13 @@ alert(soma(5, 10));
 /*
 var d = new Date();
 alert(d.getMonth());
+<<<<<<< HEAD
 lert(d.getHours());
 */
+=======
+alert(d.getHours());
+
+>>>>>>> bb9d30006b5a815712a956c7cd9f05b2d5177202
 
 
 /*
